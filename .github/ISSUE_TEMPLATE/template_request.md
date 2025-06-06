@@ -1,6 +1,6 @@
 ---
-name: Request Templates
-about: Request new templates in App Store
+name: Template Request
+about: Template Request for ClawCloud Run App Store
 ---
 
 **Template Name:** 
